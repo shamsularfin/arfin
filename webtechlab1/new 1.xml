@@ -1,0 +1,26 @@
+<goods>
+<good id = "11" >
+<name> samsung </name>
+<unitprice> 35000 </unitprice>
+<stock> 50 </stock>
+<status> 1 </status>
+</good>
+
+
+<good id = "20" >
+<name> htc</name>
+<unitprice> 65300 </unitprice>
+<stock> 35 </stock>
+<status> 0 </status>
+</good>
+
+
+<good id = "23" >
+<name>nokia</name>
+<unitprice> 25100 </unitprice>
+<stock> 50 </stock>
+<status> 1 </status>
+</good>
+
+</goods>
+

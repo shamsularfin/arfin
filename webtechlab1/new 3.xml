@@ -1,0 +1,25 @@
+<empinfos>
+<empinfo id="1">
+<name> john doe </name>
+<address> h# 38, r#3,banani, dhaka </address>
+<dept> sales </dept>
+<salary> $20000 </salary>
+</empinfo>
+
+<empinfo id="2">
+<name> mark zuckerberg </name>
+<address> flat# a/1,h# 20 , r#18,mirpur, dhaka </address>
+<dept> accounts </dept>
+<salary> $12000 </salary>
+</empinfo>
+
+<empinfo id="3">
+<name>ala voski </name>
+<address> h# 38, r#3 , motijheel </address>
+<dept> hr </dept>
+<salary> $30000 </salary>
+</empinfo>
+
+</empinfos>
+
+
